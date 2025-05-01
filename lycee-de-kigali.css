@@ -1,0 +1,47 @@
+/* lycee-de-kigali.css */
+body {
+    background-color: #f9f9f9;
+    font-family: "Arial", sans-serif;
+    margin: 0;
+  }
+  
+  header {
+    background-color: #003366;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    color: red;
+  }
+  
+  nav {
+    background-color: #00244d;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    background-color: #004488;
+  }
+  
+  .container {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+  }
+  
+  footer {
+    background-color: #e0e0e0;
+    text-align: center;
+    padding: 20px;
+  }
+  

@@ -1,0 +1,48 @@
+/* college-de-butamwa.css */
+body {
+    margin: 0;
+    font-family: "Segoe UI", sans-serif;
+    background-color: #f4f6f8;
+  }
+  
+  header {
+    background-color: #0056b3;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    color: red;
+  }
+  
+  nav {
+    background-color: #003d80;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav a {
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    background-color: #004b99;
+  }
+  
+  .container {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #e0e0e0;
+    margin-top: 40px;
+  }
+  
